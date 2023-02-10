@@ -1,2 +1,9 @@
 # LightBNB
-LightHouse BNB app
+LightHouse BNB app for Postgre SQL practice
+
+
+#Entities
+* properties
+* property reviews
+* reservations
+* users
